@@ -66,6 +66,8 @@ My advice for you to have a high chance of winning is to have your two starting 
 
 Placing your settlement has a benefit I've observed, where you will suffer lower Robber Losses and a less likely target if another player rolls a 7 or utilizes a Knight to rob someone. Speaking of the Robber, robbing other players of the resources in their hands will help you obstruct their path to a win by preventing them from being able to develop their settlements or obtain a Development card that could potentially be a victory point. 
 
+If you're unable to get good starting settlement positions, you can make up for that via robbing other players or trading. Be cautious about trading though because you don't want to accidentally give another player the one resource they need to win the game.
+
 ### Future Questions
 1. Does player stance affect your chances of winning? This feature was not available in this dataset. I'd like to find one that does have this data recorded to see if it has a strong impact on gameplay.
 2. Development card performance, are victory points really as important as they seem? Should a player aim to gain as many victory points as possible in comparison to other cards such as "The Largest Army" or "The Longest Road?"
