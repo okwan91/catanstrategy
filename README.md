@@ -56,4 +56,17 @@ When plotting Resource Production against points gained during a game, you can s
 
 ![alt text](https://github.com/okwan91/catanstrategy/blob/main/Graphs/resourcevspoints.png)
 
+After refining the model, I was able to obtain an accuracy score between 75-80% and an R2 score between .44-.50 and an mean squared error score of 2.34.
 
+I also tried a logistic regression model on this dataset, using the features that were narrowed down by the random forest mode and it faired a little better. Accuracy scores ranged between 80-86% and an R2 score of .68 and a mean squared error of 1.53. However the most importan feature according to a logistic regression model was Trade Gain, followed by Resource Production.
+
+### So, How can I win?
+
+My advice for you to have a high chance of winning is to have your two starting settlements favoring Wheat, Lumber, and Sheep along with numbers between 5-9 in order to have a high production rate. Ports will cost you resources so if you want to be able to utilize the benefit of lower trading costs, you should first place your settlements somewhat near a port while still having access to 3 resources. Then you can slowly build your way to a port to utilize its benefits without sacrificing resource production. As quickly as you are able to produce resources, you also want to spend those resources at a moderate rate to avoid the risk of having to discard them when a 7 is rolled or becoming a target for other players. 
+
+Placing your settlement has a benefit I've observed, where you will suffer lower Robber Losses and a less likely target if another player rolls a 7 or utilizes a Knight to rob someone. Speaking of the Robber, robbing other players of the resources in their hands will help you obstruct their path to a win by preventing them from being able to develop their settlements or obtain a Development card that could potentially be a victory point. 
+
+### Future Questions
+1. Does player stance affect your chances of winning? This feature was not available in this dataset. I'd like to find one that does have this data recorded to see if it has a strong impact on gameplay.
+2. Development card performance, are victory points really as important as they seem? Should a player aim to gain as many victory points as possible in comparison to other cards such as "The Largest Army" or "The Longest Road?"
+ 
